@@ -5,7 +5,7 @@
 This repository is used to report issues for Paladium Bedrock.
 
 ## How to report an issue
- - Go to the [issues page](https://github.com/Paladium-Developpement/Paladium-Bedrock-Issues)
+ - Go to the [issues page](https://github.com/Paladium-Developpement/Paladium-Bedrock-Issues/issues)
  - Check if your issue has already been reported.
  - If not, click on the "New issue" button.
  - Select the issue template that corresponds to your issue.
