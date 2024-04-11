@@ -1,0 +1,19 @@
+name: Suggestion
+description: Suggestion
+title: '[Suggestion] '
+labels:
+  - suggestion
+body:
+  - type: input
+    id: minecraft-username
+    attributes:
+      label: Minecraft Username
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion-description
+    attributes:
+      label: 'Description of your suggestion'
+      description: 'Write a description of your suggestion. You can write in French or English.'
+    validations:
+      required: true
