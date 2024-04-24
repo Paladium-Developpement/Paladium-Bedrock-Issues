@@ -1,0 +1,23 @@
+name: Bug PalaMod
+description: Bug with PalaMod plugin report
+title: '[Bug] '
+assignees:
+  - natof
+  - jj136975
+labels:
+  - bug
+  - PalaMod
+body:
+  - type: input
+    id: minecraft-username
+    attributes:
+      label: Minecraft Username
+    validations:
+      required: true
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: 'Description of the bug'
+      description: 'Write a short description of the bug. You can write in French or English.'
+    validations:
+      required: true
