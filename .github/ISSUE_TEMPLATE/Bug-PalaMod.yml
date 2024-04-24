@@ -7,6 +7,8 @@ assignees:
 labels:
   - bug
   - PalaMod
+projects:
+  - Paladium Bedrock
 body:
   - type: input
     id: minecraft-username

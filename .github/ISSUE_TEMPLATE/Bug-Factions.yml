@@ -6,6 +6,8 @@ assignees:
 labels:
   - bug
   - Factions
+projects:
+  - Paladium Bedrock
 body:
   - type: input
     id: minecraft-username

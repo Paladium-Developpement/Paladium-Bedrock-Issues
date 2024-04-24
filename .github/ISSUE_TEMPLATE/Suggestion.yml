@@ -3,6 +3,8 @@ description: Suggestion
 title: '[Suggestion] '
 labels:
   - suggestion
+projects:
+  - Paladium Bedrock
 body:
   - type: input
     id: minecraft-username
