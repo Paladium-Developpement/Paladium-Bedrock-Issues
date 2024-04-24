@@ -1,6 +1,8 @@
-name: Bug Report
-description: Bug report
-title: '[Bug] [Factions] '
+name: Bug Factions
+description: Bug with Factions plugin report
+title: '[Bug][Factions] '
+assignees:
+  - Chaika9
 labels:
   - bug
   - Factions
