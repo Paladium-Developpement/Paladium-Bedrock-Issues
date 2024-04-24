@@ -3,6 +3,8 @@ description: Bug report
 title: '[Bug] '
 labels:
   - bug
+projects:
+  - Paladium Bedrock
 body:
   - type: input
     id: minecraft-username
