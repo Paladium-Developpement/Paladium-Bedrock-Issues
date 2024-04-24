@@ -1,11 +1,11 @@
-name: Bug Factions
-description: Bug with Factions plugin report
+name: Bug Minecraft
+description: Bug with Minecraft report
 title: '[Bug] '
 assignees:
   - Chaika9
 labels:
   - bug
-  - Factions
+  - Minecraft
 body:
   - type: input
     id: minecraft-username
